@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short conference between a scrupling Presbyterian, and a Puritan concerning maintenance for the gospel ministrie wherein dialogue-wise is lovingly argued; whether tythes, or any other stinted proportion of mens estates, may now under the gospel be required by the ministers, or pay'd by the people, by vertue of any expresse warrant, or good consequence from scripture. with a letter to the Assembly of Divines.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93206</idno>
+            <idno type="STC">Wing S3582</idno>
+            <idno type="STC">Thomason E335_9</idno>
+            <idno type="STC">ESTC R200781</idno>
+            <idno type="EEBO-CITATION">99861437</idno>
+            <idno type="PROQUEST">99861437</idno>
+            <idno type="VID">113573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113573)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short conference between a scrupling Presbyterian, and a Puritan concerning maintenance for the gospel ministrie wherein dialogue-wise is lovingly argued; whether tythes, or any other stinted proportion of mens estates, may now under the gospel be required by the ministers, or pay'd by the people, by vertue of any expresse warrant, or good consequence from scripture. with a letter to the Assembly of Divines.</title>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 2d.London.1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sempill, James, --  Sir, 1566-1625. --  Sacrilege sacredly handled.</term>
+               <term>Tithes --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113573:1" rendition="simple:additions"/>
+            <p>A Short conference between a Scrupling <hi>Presbyterian,</hi> and a <hi>Puritan</hi> concerning maintenance for the Goſpel Miniſtrie wherein Dialogue-wiſe is lovingly argued; Whether <hi>Tythes,</hi> or any o<g ref="char:EOLhyphen"/>ther ſtinted proportion of mens Eſtates, may now under the Goſpel be required by the Miniſters, or pay'd by the People, by vertue of any ex<g ref="char:EOLhyphen"/>preſſe Warrant, or good conſequence from Scripture.</p>
+            <p>with a Letter to the Aſſembly of Divines</p>
+            <p>Iames Sempil's <hi>Sacriledge ſacredly handled.</hi>
+            </p>
+            <p>p. 2. c. 8. §. 4.</p>
+            <p>The poſitiue Law of Princes is not the fundamental ground (as many thinke) tying Tythes to the Church: for at firſt, Tythes were eyther Moral or Ceremo<g ref="char:EOLhyphen"/>nial. If Moral, then all Kings are but <hi>Hezekiah's</hi> commanding to pay them <hi>according to the Law.</hi> But if Ceremonial, then it is no leſſe Superſtition <hi>now</hi> to reſtore them: then it was ſacrilege <hi>then</hi> to refuſe them. For nothing that typed Chriſt as Ceremonal, may be revived after Chriſt in his Church.</p>
+            <p>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="Scriptural_passages">
+                        <head>Rebuffas de Decimis</head>
+                        <q xml:lang="lat">Decimae erant ante Legem, ſub conſilio; In Lege ſub praecepto; Poſt Le<g ref="char:EOLhyphen"/>gem in libertate Spiritus.</q>
+                        <q>
+                           <bibl>
+                              <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>. <hi>Sam.</hi> 2. v. 8. 12.</bibl> 
+                           <p>Now the Sonnes of <hi>Eli</hi> were Sonns of <hi>Belial,</hi> they knew not the Lord.</p>
+                        </q>
+                        <p>ver. 13. And the Preiſts cuſtom with the people was, that when any man offered Sacrifice, the Prieſts ſervant came while the fleſh was ſeething, with a fleſh hooke of three teeth in his hand.</p>
+                        <q>
+                           <bibl>ver. 14.</bibl> 
+                           <p>And he ſtrook into the Pan, or Kettle, or Caldron, or Pot; all that the fleſh-hook brought up, the Prieſt took for himſelfe: So they did in <hi>Shiloh,</hi> unto all the <hi>Iſraelites</hi> that came thither.</p>
+                        </q>
+                        <q>
+                           <bibl>ver. 15.</bibl> 
+                           <p>Alſo before they burnt the fat, the Prieſts ſervant came, and ſaid to the man that Sacrificed, give fleſh to roſt for the Prieſt, for he will not have ſodden fleſh of thee, but raw.</p>
+                        </q>
+                        <q>
+                           <bibl>ver. 16.</bibl> 
+                           <p>And if any man ſaid unto him, let them not fail to burne the fat perſent<g ref="char:EOLhyphen"/>ly, and then take as much as thy ſoul deſireth: Then hee would anſwere him, nay, but thou ſhalt give it me now, and if not, I wil take it by force.</p>
+                        </q>
+                        <q>
+                           <bibl>ver. 17.</bibl> 
+                           <p>Wherefore the ſin of the young men was very great before the Lord: for men abhorred the offering of the Lord.</p>
+                        </q>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>May 2<hi rend="sup">d</hi>. London. 1646. </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:113573:2"/>
+            <head>
+               <hi>A Short Conference, between a</hi> Puritan and Presbyterian Strupling about the the maintenance of Goſpel-Miniſters.</head>
+            <sp>
+               <speaker>Presbyterian.</speaker>
+               <p>WHether are not the Miniſters of the <hi>Goſpell</hi> to live by the <hi>Goſpel?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Yes doubtles, for we are forbid to musſle the very Oxe that tre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deth out t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e corne, and <hi>Gods taking care for Oxen, is to teach us that he tak<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s farre <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ter care for his true Miniſters of the Goſpel.</hi> 1. <hi>Cor.</hi> 9 9. 10.</p>
+            </sp>
+            <sp>
+               <speaker>Preby<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</speaker>
+               <p>Whether may not the <hi>Goſpel</hi> Miniſters require the ſame Tythes for their <hi>Goſpel</hi> maintenance, which were due unto the <hi>Leviticall</hi> Prieiſt<g ref="char:punc">▪</g>hood for their ſervice adout the Tabernacle?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>No, for 'tis plainly ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id that <hi>there was no perfection by the</hi> Leviti<g ref="char:EOLhyphen"/>call <hi>Prieſt<g ref="char:punc">▪</g>hood, under which the People received the</hi> Leviticall <hi>law, and that the</hi> Levitical <hi>Prieſthood being changed, there was made a neceſſity of chan<g ref="char:EOLhyphen"/>ging the</hi> Levitical <hi>law, Heb.</hi> 7. 11. 12. 19. even the whole <hi>Leviticall law,</hi> whereof <hi>Tythes</hi> were a part, an Article, a Cannon.</p>
+            </sp>
+            <sp>
+               <speaker>Preſb.</speaker>
+               <p>But may not the State alot or ſet, out a maintenance for the <hi>Goſ<g ref="char:EOLhyphen"/>pel</hi> Preiſt hood or Miniſtrie, under ſome other proportion or denomina<g ref="char:EOLhyphen"/>tion, as of one eight, or fifteenth of mens eſtates, to be given them for their labour &amp; traveil in the <hi>Goſpel.</hi> without ſo much as ever naming the word <hi>Tythes,</hi> amongſt us? might not this be don lawfully and without ſcruple?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>No, becauſe the proportioning and impoſing upon the people ſuch a maintenance, for the <hi>Goſpel</hi> Miniſters, muſt be either by ſom ex<g ref="char:EOLhyphen"/>preſſe warrant from God, which never was as yet, nor, can ever be pro<g ref="char:EOLhyphen"/>duc'd, or in imitation of the <hi>Leviticall</hi> Law, which would incroch too much on <hi>Iudaiſm,</hi> and in part revive the O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Law which is aboliſhed, <hi>Heb,</hi> 7. 12. or elſe muſt needs ariſe from a double preſumption, of I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as it is pretended to relate unto Gods wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhip, and tirany as it intrenches upon the Subjects propriety and liberty, if it be without their conſent.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>But ſince <hi>the Lord hath ordayned that ſuch as preach the Goſpell ſhould live by the Goſpel.</hi> 1. <hi>Cor.</hi> 9. 14. If the Pariſhioners wil not give the Preacher maintenance, is there not a neceſſity for him to take it, wbe<g ref="char:EOLhyphen"/>ther the Pariſhioners will or no? Chriſt ſayes the Miniſter muſt live by his Preaching, the people will not pay him for his Pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching, and I find no third way to make good that Scripture, unleſſe hee force it from them for his livelyhood.</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>Tis true, how Chriſt appointed that ſuch as preach the <hi>Goſpel</hi> ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld live by the <hi>Goſpell,</hi> upon the effects and fruits of the <hi>Goſpell,</hi> hoſ<g ref="char:EOLhyphen"/>pitality,
+<pb n="3" facs="tcp:113573:2"/> almes, deeds, community of neceſſaryes, when the Chriſtians have wher<g ref="char:EOLhyphen"/>withall, not upon plundring and ſtealing; But if the people had no meanes for themſelues, or would not part from it unto their Miniſters, then, their living by the <hi>Goſpel,</hi> wil be to worke with their hands in ſome honeſt caling as <hi>Paull</hi> did, unles wec will infet that <hi>Paul</hi> and his Diſci<g ref="char:EOLhyphen"/>ples, did not live by the Goſpell, <hi>becauſe he chose to worke with his owne hands and adviſed others to doe the ſame, rather then their Miniſterie ſhould be thought chargable to any, Act.</hi> 20. 33. 34. 35. 1. <hi>Theſſ.</hi> 2. 9. <hi>&amp;</hi> 4. 11. 12. They are then to live by the <hi>Goſpel,</hi> on what Gods provi<g ref="char:EOLhyphen"/>dence ſhall provide them under the <hi>Goſpell,</hi> whether it come in by free maintenance from their Pariſhioners, or by labouring with their owne hands.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>But was there no command nor preſident for compelling the People of God to Pay Tythes unto the <hi>Levites,</hi> nor to give maintenance unto the <hi>Goſpel</hi> Miniſters?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>I finde no command nor Preſident, neyther in the Old, nor New Teſtament, for ſuch compulſion.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>What may be the reaſon why God would not grant a compul<g ref="char:EOLhyphen"/>ſive power for levyeing, neither the <hi>Leviticall</hi> nor <hi>Goſpel</hi> maintenanc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>There are many reaſons for it, both in reſpect of the people, and in reſpect of the Miniſters; Firſt in reſpect of the People; though God ſet out the portion, the Tythes which the <hi>Levits,</hi> were to haue, and ex<g ref="char:EOLhyphen"/>preſly inſinuates, that temporall things ought to be given unto ſuch as adminiſter ſpiritual, yet he would have it be given as <hi>a free gift, a matter of bounty, not grudgingly,</hi> 2. <hi>Cor.</hi> 9. 5. which is inconſiſtent with a coerciue way of levying it; Secondly in reſpect of the Miniſters, it is ex<g ref="char:EOLunhyphen"/>preſly required concerning them, <hi>that they be not ſoone angry,</hi> no ſtrikers, 1. <hi>Tit.</hi> 1. 7. <hi>they muſt not ſtrive, but be gentle unto all men</hi> 2. <hi>Tim.</hi> 2, 24. They were, as neere as poſſible, to reſemble Chriſt their Maſter, who was <hi>not to ſtrive, nor to bee heard</hi> cry <hi>in the ſtreets, a bruiſed reed he would not breake, and ſmoking flax hee would not quench, untill he ſent forth Jugment unto victory, Matt.</hi> 12. 19. <hi>He had no civill Iurisdiction, Hee ſaid his Kingdome was n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t of this world, Iohn.</hi> 18 36. <hi>Hee would not de<g ref="char:EOLhyphen"/>vide the Inheritance betweene the two Brethren, Luke.</hi> 12. 13. 14. much<g ref="char:EOLhyphen"/>leſſe would hee play the divider<g ref="char:punc">▪</g> the carver for himſelfe, and all this is likwiſe inconſiſtent with the Miniſters uſing by themſelves, or ſo much as countenancing in the civill Magiſtrate any compulſive means in or a<g ref="char:EOLhyphen"/>bout their maintenace, or any thing elſe which immediatly concerns he <hi>Goſpel</hi> of Peace.</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:113573:3"/>
+               <speaker>Prsb.</speaker>
+               <p>But is it not to be feared, that if the People be not compell<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to give maintenance unto the Miniſters, that in many Pariſhes the Pre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>chers would not have wherewithall to live upon, but muſt be conſtray <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to neglect their ſtudye<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and labour all the week long for reliefe of them<g ref="char:EOLhyphen"/>ſelues and families with food and raiment, wherby they would li<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y become much unprepared, if not totally diſabled, to Preach unto their P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſhioners on Sundayes, in ſuch a caſe as this, were it net better to compell maintenance for a Preaching Miniſtrie, then that there ſhould be no Miniſtrie, no preaching at all?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>No doubtleſſe, for ſince wee have no warrant for levying ſuc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kind of maintenance, it can not be of faith<g ref="char:punc">▪</g> 
+                  <hi>whatſoever is not faith is ſin, R<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 14. 23 <hi>and wee may not ſinne, wee may not doe evill that good may come th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>of, Rom.</hi> 6. 1: Beſids, it is abſolutly ſinfull to make ſuch a<g ref="char:EOLhyphen"/>ſuppoſition, to ſuppoſe that a true and painfull Miniſtrie ſhould, or can want maintenance ſince it cannot be without an abſolute diſtruſt <hi>of God, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ha<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> promiſed to be their portion and inheritance, Num.</hi> 18. 20. <hi>Deut.</hi> 10. 9. a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſince <hi>Paul</hi> ſaid that it was better for him to die, then that h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d bee prevented in his boſting of not making the <hi>Goſpel</hi> chargable, 2. <hi>Cor.</hi> 9. 15. 18. 23. even ſo ought every conſcientious Miniſter to w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith his owne hands, and rather ſtarve then goe to law, or com<g ref="char:EOLhyphen"/>pell his P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſhioners to give him maintenance, whether they will or no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; and for the impertinent and over officious c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, which ſome ſeeme <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o have of upholding Gods Miniſters, by ſuch indirect courſes, they out<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> the Conſtable; I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is Gods worke to ſend and furniſh us with Mini<g ref="char:EOLhyphen"/>ſters, and their duty to require maintenance after ſuch a manner only, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s they are warranted in Chriſts Commiſſion, which bids them <hi>give freely as they have receaved freely, Matt.</hi> 10. 8. <hi>and that when they were in <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ny place, they ſhould eate and drinke whatſoever was ſet before them, Luke.</hi> 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7. 8.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>But is there no third way, no means of ind<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fferency betwi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king Tythes really or equivocally, which as you inſinuate, will oblige us no l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe then <hi>Paul</hi> ſayes of Circumſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, to the keeping of the whole Law, <hi>Gal.</hi> 5 3 4<g ref="char:punc">▪</g> that never made any one perfect, <hi>Heb.</hi> 7. 11. 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Is there<g ref="char:punc">▪</g> I ſay, noe <hi>medium</hi> betweene ſuch a <hi>Leviticall</hi> kind of mainte<g ref="char:EOLhyphen"/>nance, if you will have it ſo, and becomming meer almeſ-men, to li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e upon the Peoples charity?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>Noe doubtl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; for as there is no third way of Goverment preſcri<g ref="char:EOLhyphen"/>bed the people of God, betweene, or beſides the Old and new Law, or Teſtament, ſo is it impoſſible there ſhould be ſound any other warrant<g ref="char:EOLhyphen"/>able
+<pb n="5" facs="tcp:113573:3"/> meanes of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing maintenance unto the Miniſters of eyther Teſta<g ref="char:EOLunhyphen"/>ment, then what God has therin preſcribed them, which under the old Law, was a ſtinted Proportion even the Tyther, whether the encreaſ were more or leſſe, for the <hi>Livi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecall</hi> Preiſt-hood; But for the <hi>Goſpell</hi> Miniſtry, nothing beſides the charity and free bounty of the people, which yet through faith became a larger portion then that of Tythes, whilſt <hi>the be<g ref="char:EOLhyphen"/>leevers at ſome time and place; had not only all things in common, Ast.</hi> 2. 44. <hi>but ſuch as had land<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and houſes, ſould all they had, and laid the whole price thereof at the Apoſtles feete, Act.</hi> 4. 34. 35.</p>
+            </sp>
+            <sp>
+               <speaker>Presb.</speaker>
+               <p>Tel me then deer Brother in Chriſt, how a conſcientious Mini<g ref="char:EOLhyphen"/>ſter ought to demean himſelf in his great extremity, one who hither to has l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved on Tythe, which you cal robbery &amp; plunder, and has not as yet faith enough to renounce them, without a diſtruſt that both himſele and family will bee reduced to beggary?</p>
+            </sp>
+            <sp>
+               <speaker>Pur.</speaker>
+               <p>Deare Brothe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: If you be truly conſcientious, and througly convinced, you would quickly ſee as our Saviour ſaith, how diſadvanta<g ref="char:EOLhyphen"/>gious twere to you, to gaine the whole world and looſe your owne ſoule, <hi>Matt.</hi> 16. 26. I will therefore deal cleerly with you, as in the preſence ef God, the moſt exquiſite Accountant, and ſevereſt Iudge, to all ſuch as with <hi>Ananias and Sapphira</hi> preſume to lye unto the Holy Ghoſt, <hi>Ast.</hi> 5. The Law, ordayned ſuch asſtole to reſtore fiue for one, <hi>Exod.</hi> 22. 1. <hi>Zacheus</hi> according thereunto, when hee was converted, reſtored fourfold, for whatſoever hee had taken from any body upon falſe accuſation, <hi>Luke,</hi> 19 8. and with out reſtitution (to ſuch as have wherewithall) all Caſuiſts preſume there can be no true repentance, and conſequently deny abſolution: If you be able therefore you muſt make reſtitution of all that you have extorted from your Pariſhioners, under pretence of main<g ref="char:EOLhyphen"/>tenance, at leſt unto ſuch as will not freely remit the debt unto you, and for the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, endevour to get faith in Gods Ordinances, without which it is impoſſible to pleaſe him, <hi>Heb.</hi> 11. 6. and as the Apoſtle <hi>Iam<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> ſayes, you muſt not, nay I may ſay you can not ſomuch as thinke too receive any thing of him without it, <hi>Iames</hi> 1. 7. But on the contrary, (if you wil beleive the Scripture) If you have faith but as a grain of muſterd ſeed. you might remove Mountaines, <hi>Matt</hi> 17. 20. and receive of God whatſoever you ſhall aske, <hi>&amp;</hi> 21. 22. Truſt in him who has promiſed to bee your portion, doe what God commands, and leave the ſucceſſe un<g ref="char:EOLhyphen"/>to his Providence, ſay with <hi>Iob,</hi> that you will truſt in God, though hee ſhould ſuffer you to ſtarue, <hi>Iob</hi> 13. 15. Rely upon the maintenance that hee has provided for you, through the free gift of the Brethren, 2.
+<pb n="6" facs="tcp:113573:4"/> 
+                  <hi>Cor.</hi> 9. 5. which to many of the <hi>Independant</hi> way, as you may ob<g ref="char:EOLhyphen"/>ſerve, proves more beneficiall then Tythes, and if it ſhould fayle you (which yet it cannot except through your owne want of faith) you have notwithſtanding your hands as well as your neighbours, to get a living by, and take this for a parting Word, that it may leave deeper impreſſion; <hi>God who cloathes the Lil<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of the feild, which neither take care nor worke, more gloryously then Solomon in all his greatnes, Math,</hi> 6. 28. 29. <hi>and feeds the young ravens which cannot helpe themſelves, any other wiſe then by crying unto him, Iob</hi> 38. 41. <hi>Pſal.</hi> 147. 9. <hi>will not let thee only his Goſpel Miniſter, with whom hee hath made a better Covenant, and upon better Promiſes then with all the world beſides, Heb</hi> 8 6. <hi>be put to ſhifts for maintenance, if thou bel<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iveſt, if thou relieſt upon him; and hadſt thou been born a Potentate, or bred up to the moſt gainſomeſt calling, in thine owne imagination, wit<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out this anker of faith, thou muſt needs have miſcarried, and come to begga<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry,</hi> God bring it home unto thy heart, and move thee being once converted to endevour the convertting ſo many of thy miſ<g ref="char:EOLhyphen"/>led Brethren.</p>
+            </sp>
+            <div type="part">
+               <head>To the Divines aſſembled at <hi>Weſtminſter.</hi>
+               </head>
+               <p>TH<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſhort dialogue about the Miniſters maintenance comming to my h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, I thought good to dedicate it unto your ſelves, whom it moſt con<g ref="char:EOLhyphen"/>cerns, But be cauſe it is argued with much mildnes and ſweetnes of Spirit, a thing in it ſelf much commendable, I am ſome what fearful it wil not awaken your <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul frozen-heart<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dnes, nor pierce deep enough into the putrid depth of your unfathomable covetouſnes: Beare with mee then, if for your good, <hi>I</hi> give you mine owne opinion of the matter in theſe following lines, with a little more tart<g ref="char:EOLhyphen"/>nes of expreſſion in ſome few paſſages thereof.</p>
+               <p>
+                  <hi>I</hi> conc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive, wee are bound by the unrepealable Law of Chriſtian charity, and the neceſſity of preſerving hum in ſociety, even man-kind it ſelfe, by <hi>doing as wee would be done unto, Matt.</hi> 7. 12. to releive the neceſſityes of the S<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ts, of our Brethen, and mankinde in generall, to the parting with our <hi>whole</hi> eſtates, ſave ſomuch only as our owne neceſſity<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s require at preſent: For th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugh charity begine at home, yet it muſt be ſo regulated that under p<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ten<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e therof, we do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not ſo lay up in ſtore againſt a dear yeare, or pamper our ſelves for the time, whilſt others dye through our uncharitablenes, of penury and hunger. In which reſpect, wee may take up this unerring rule, that <hi>if any bodies inſtant neceſſities be greater then our own, we are indiſpenſibly cal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d upon to adminiſter unto them of what wee have:</hi> Oh the fearfull account and condemnation, which attends all ſorts of people for fayling in this
+<pb n="7" facs="tcp:113573:4"/> way of Stewardſhip, but principally the covetous of the Clergy, or covetous Clergy rather, the very maſſe of them being plung'd and drown'd herein, as ap<g ref="char:EOLhyphen"/>peareth by their compelling men of all ranks, eſtates, &amp; conditions whatſoever, to the payment of their <hi>Iewiſh</hi> Tythes? Doe people of any caling in the world except pretended Miniſters, which wer never rightly called, conſtrain their Brothren to buy their merchandize, &amp; that at what price the owners pleaſe, beſide theſe merchandizing Clergy men? Or can any people but themſelves in all the Land eſcape the heavy hand of Juſtice, if they ſhould force monyes from others, under pretence of payment for ſophiſticated wares, which they never did or would receive? Oh let ſuch a ſuppoſitious Tribe of <hi>Levy,</hi> or truer off<g ref="char:EOLhyphen"/>ſpring of <hi>Symon Magus</hi> heare and tremble at what the Spouſe ſayes unto the Churches: <hi>Ho every one that thirſteth come yee to the waters, and he that hath no money, come yee buy and eate, yea, come buy wine and milk without money &amp; without Price: Wherfore doe you ſpend your money for that which is not bread? &amp; your labour for that Which ſa<g ref="char:EOLhyphen"/>tisfieth not;</hi> What ſay you now, is Chriſt or Antichriſt your Lord and Maſter? which of them is it which you follow in denying both the ſpirituall and reall bread, milke or Wine of the Goſpell, to ſuch as will not be lik<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your ſelves, guilty ſimony in purchaſing them at your ſacralegious mo<g ref="char:cmbAbbrStroke">̄</g>opolizing prices? who have you for a Preſident of conſtra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning not only your <hi>own,</hi> ſuch as to you are <hi>within,</hi> but even thoſe which are <hi>without</hi> contrary to <hi>Pauls</hi> rule, to ſpend their money with ſuch prophane exchangers, deſerving to be turned out by the Church, for that which is not bread? to make poore people which labour all the weck long to fil their bellys, disburſe the price of blood, <hi>of</hi> life unto you, for that which ſatisfieth not, which they approve not of? Holy <hi>David</hi> did not only refuſe it even in extremity, but the very murthering <hi>lews</hi> made conſcience therof, though they had to deale with <hi>ludas</hi> the worſt of miſcreants. <hi>Paul</hi> did not only ſet up, ſhop where ever he came (oh prophane) laboring with his own hands, with whom <hi>Silvanus</hi> &amp; <hi>Timothie</hi> did the like, as appeares by comp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ring the two laſt Scripturs with 1. <hi>Theſſ.</hi> 1. 1. <hi>&amp;</hi> 2. <hi>Theſſ.</hi> 1. 1. as alſo did <hi>Tytus;</hi> but <hi>Paul</hi> required the Paſtors Elders of ſetled congregations to doe the ſame, giving them reaſon for it as wel as precept, and ſuch a powerful one as might prevaile not only with Chriſtians but with Infidels, ſaying, <hi>'tis more bleſſed to give then to receave; profeſſing withall, that hee kept back nothing that was profitable for them, ver.</hi> 20. <hi>and that he had decla<g ref="char:EOLhyphen"/>red unto them the whole counſell of God ver.</hi> 27.</p>
+               <p>Anſwer for your ſelves the, you mercenary Marchants of your pretended heauenly manna; who have you t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is commiſſion from? how can you give us infa<g ref="char:EOLhyphen"/>lible aſſurance, that God diſcovered to you more of his cou<g ref="char:cmbAbbrStroke">̄</g>ſel the<g ref="char:cmbAbbrStroke">̄</g> he did to <hi>Paul?</hi>
+                  <pb n="8" facs="tcp:113573:5"/> or why muſt a State or People damne themſelves for your baſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ends, to <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Pauls</hi> truth in queſtion, and not beleeve him when he tells the Paſtors of <hi>Mi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>tus,</hi> and in them all true Miniſters and Paſtors ſucceſſively, that it was <hi>Gods</hi> abſolute will <hi>they ſhould labour with their hands ſupplying ſuch as wan<g ref="char:EOLhyphen"/>ted,</hi> as you have ſeene in that ſecond of <hi>Acts</hi> a fore cited?</p>
+               <p>Phy, phy for ſhame, remember that <hi>they which will be rich fall into many temptations, the love of money is the roote of all evil, but godlynes with contentment is great gaine:</hi> Begin at laſt, to think repentace neceſſa<g ref="char:EOLhyphen"/>ry, and if you will not with <hi>Zacheus</hi> make reſtitution of all the <hi>Tythes</hi> you have unjuſtly taken; at leaſt diſclaime them for the future and <hi>ſin no more:</hi> Truſt in the <hi>Almightyes</hi> providence, and your owne hands for maintenance, waite upon his Ordinances; Chriſtian charity will grow into a community of all things, rather then true beleevers ſhall want wherewithall to live upon; <hi>God</hi> will teach Ravens to adminiſter unto you, if but <hi>Eliah-lyke</hi> you bee obe<g ref="char:EOLhyphen"/>dient to his commands: if you bee not more idle then the ravens, <hi>which ney<g ref="char:EOLhyphen"/>ther ſow nor reap, which neyther have ſtorehouſe nor barn<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t <hi>God</hi> feeds them when they crye: If you be not leſſe promoters of <hi>Gods</hi> honour then <hi>Lillies, which neyther toile nor ſpin, and yet are more glorious then Solomon in his beſt array,</hi> how much more would be have care of you, O ye of little faith? fly then to <hi>God</hi> at laſt, now that you are diſcovered, at leſt make avertue of neceſſity, truſt in <hi>God</hi> &amp; not in <hi>Tythes;</hi> Such as h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>etofore adored <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou, their eyes be now open &amp; take notice of your groſſe i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poſtur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; they have no longer patience to ſee you live like drones, to tiranize over their conſcien<g ref="char:EOLunhyphen"/>ces, to be your owne carvers of all they have, nor wil be longer acceſſary thereto by fatning you like Swine againſt the day of Slaughter.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
